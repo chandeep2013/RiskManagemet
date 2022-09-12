@@ -1,7 +1,6 @@
 ###
  # This file configures the project "Piper" pipeline of your project.
- # For a reference of the configuration concept and available options, 
-please have a look into its documentation. 
+ # For a reference of the configuration concept and available options, please have a look into its documentation. 
 # 
 # The documentation for the most recent pipeline version can always be found at:
 # https://sap.github.io/jenkins-library/ 
