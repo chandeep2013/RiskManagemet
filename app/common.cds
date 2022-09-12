@@ -13,7 +13,7 @@ annotate rm.Risks with {
     criticality @title : 'Criticality';
 }
 
-// Annotate Miti elements
+// Annotate Miti elements 
 annotate rm.Mitigations with {
     ID    @(
         UI.Hidden,
